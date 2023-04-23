@@ -15,3 +15,27 @@ body{
     min-height: 100vh;
     width: 100%;
 }
+
+.Quiz{
+    background: black;
+    width: 450px;
+    min-height: 200px;
+    border-radius: 15px;
+    padding: 20px;
+    display: flex;
+    box-shadow: 10px 10px 42px 0px black;
+    text-align: center;
+    align-items: center;
+}
+
+.quiz{
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+    text-align: center;
+    align-items: center;
+}
+
+.image{
+    width: 400px;
+}
