@@ -1,0 +1,8 @@
+@import url("slick-carousel/slick/slick.css");
+@import url("slick-carousel/slick/slick-theme.css");
+.slider{
+    width: 1200px
+}
+.mainHead{
+    margin-bottom: 30px;
+}
